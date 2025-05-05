@@ -1,0 +1,58 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Yassin Bassam\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\Yassin Bassam\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Yassin Bassam\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/Yassin Bassam\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\Debug\RC5 with Assembly for Simulation.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>RC5 with Assembly for Simulation.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>RC5 with Assembly for Simulation.map</FILE>
+  <FILE>RC5 with Assembly for Simulation.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <S><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>14</LINE></S>
+  <L><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>15</LINE></L>
+  <A><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>16</LINE></A>
+  <B><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>17</LINE></B>
+  <main><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>237</LINE></main>
+  <K><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>24</LINE></K>
+  <key_expansion><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>273</LINE></key_expansion>
+  <encrypt><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>411</LINE></encrypt>
+  <decrypt><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>542</LINE></decrypt>
+  <main_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>269</LINE></main_loop>
+  <copy_key_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>280</LINE></copy_key_loop>
+  <init_s_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>292</LINE></init_s_loop>
+  <mix_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>315</LINE></mix_loop>
+  <rotate_s><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>333</LINE></rotate_s>
+  <rotate_l_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>369</LINE></rotate_l_loop>
+  <rotate_l_done><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>384</LINE></rotate_l_done>
+  <step4jump><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>381</LINE></step4jump>
+  <skip_i_reset><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>399</LINE></skip_i_reset>
+  <skip_j_reset><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>404</LINE></skip_j_reset>
+  <encrypt_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>449</LINE></encrypt_loop>
+  <rotate_left_a><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>468</LINE></rotate_left_a>
+  <rotate_a_done><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>479</LINE></rotate_a_done>
+  <rotate_left_b><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>493</LINE></rotate_left_b>
+  <rotate_b_done><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>501</LINE></rotate_b_done>
+  <decrypt_loop><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>568</LINE></decrypt_loop>
+  <rotate_right_b><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>590</LINE></rotate_right_b>
+  <rotate_rb_done><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>600</LINE></rotate_rb_done>
+  <rotate_rb_skip><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>597</LINE></rotate_rb_skip>
+  <rotate_right_a><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>623</LINE></rotate_right_a>
+  <rotate_ra_done><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>633</LINE></rotate_ra_done>
+  <rotate_ra_skip><FILE>D:\Yassin Bassam\Projects\RC5\RC5 with Assembly for Simulation\RC5 with Assembly for Simulation\main.asm</FILE><LINE>630</LINE></rotate_ra_skip>
+ </LABELS>
+</ASSEMBLER_INFO>
